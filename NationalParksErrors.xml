@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NationalPark xmlns="https://raw.githubusercontent.com/xAthen/A4NationalParks/main/"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://raw.githubusercontent.com/xAthen/A4NationalParks/main/NationalParks.xsd">
 	<!--Example-->
 	<NationalPark Rating="4.9">
