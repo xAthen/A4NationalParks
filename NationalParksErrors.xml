@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NationalPark xsi:schemaLocation="https://raw.githubusercontent.com/xAthen/A4NationalParks/main/NationalParks.xsd">
 	<!--Example-->
 	<NationalPark Rating="4.9">
