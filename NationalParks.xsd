@@ -3,19 +3,19 @@
 	<xs:element name="NationalParks">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element name="NationalPark" minOccurs="1"  maxOccurs="unbounded">
+				<xs:element name="NationalPark" type="xs:string" minOccurs="1"  maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:sequence>
-							<xs:element name="Name" minOccurs="1" maxOccurs="1"/>
-							<xs:element name="Phone" minOccurs="1"  maxOccurs="unbounded" />
-							<xs:element name="Address" minOccurs="1" maxOccurs="1">
+							<xs:element name="Name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+							<xs:element name="Phone" type="xs:string" minOccurs="1"  maxOccurs="unbounded" />
+							<xs:element name="Address" type="xs:string" minOccurs="1" maxOccurs="1">
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="Number" minOccurs="1" maxOccurs="1" />
-										<xs:element name="Street" minOccurs="1" maxOccurs="1"/>
-										<xs:element name="City" minOccurs="1" maxOccurs="1"/>
-										<xs:element name="State" minOccurs="1" maxOccurs="1"/>
-										<xs:element name="Zip" minOccurs="1" maxOccurs="1"/>
+										<xs:element name="Street" type="xs:string" minOccurs="1" maxOccurs="1"/>
+										<xs:element name="City" type="xs:string" minOccurs="1" maxOccurs="1"/>
+										<xs:element name="State" type="xs:string" minOccurs="1" maxOccurs="1"/>
+										<xs:element name="Zip" type="xs:string" minOccurs="1" maxOccurs="1"/>
 									</xs:sequence>
 									<xs:attribute name="NearestAirport" type="xs:string" use="required" />
 								</xs:complexType>
