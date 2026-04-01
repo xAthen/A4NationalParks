@@ -123,12 +123,12 @@
 
 	<!-- 9 -->
 	<NationalPark>
-		<Name>Hawai'i Volcanoes</Name>
+		<Name>Hawai&apos;i Volcanoes</Name>
 		<Phone>808-985-6011</Phone>
 		<Address NearestAirport="Hilo International Airport">
 			<Number>1</Number>
 			<Street>Crater Rim Drive</Street>
-			<City>Hawai'i National Park</City>
+			<City>Hawai&apos;i National Park</City>
 			<State>HI</State>
 			<Zip>96718</Zip>
 	</NationalPark>
