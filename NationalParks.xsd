@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema targetNamespace="https://raw.githubusercontent.com/xAthen/A4NationalParks/main/" elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xs:element name="NationalParks">
 		<xs:complexType>
