@@ -17,7 +17,7 @@
 	<!-- 1 -->
 	<NationalPark Rating="4.8">
 		<Name>Big Bend</Name>
-		<Address NearestAirport="Midland International Air & Space Port">
+		<Address NearestAirport="Midland International Air &amp; Space Port">
 			<Number>1</Number>
 			<Street>Panther Junction</Street>
 			<City>Big Bend National Park</City>
