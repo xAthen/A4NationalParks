@@ -1,1 +1,148 @@
-<NationalParksErrors xsi:schemaLocation=""></NationalParksErrors>
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+	<!--Example-->
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrace Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<!-- 1 -->
+	<NationalPark Rating="4.8">
+		<Name>Big Bend</Name>
+		<Address NearestAirport="Midland International Air & Space Port">
+			<Number>1</Number>
+			<Street>Panther Junction</Street>
+			<City>Big Bend National Park</City>
+			<State>TX</State>
+			<Zip>79834</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 2 -->
+	<NationalPark>
+		<Name>Crater</Name>
+		<Name>Lake</Name>
+		<Phone>541-594-3000</Phone>
+		<Phone>541-882-1896</Phone>
+		<Phone>541-594-3010</Phone>
+		<Phone>866-292-6720</Phone>
+		<Address NearestAirport="Rogue Valley International-Medford Airport">
+			<Number>1</Number>
+			<Street>Sager Building</Street>
+			<City>Crater Lake</City>
+			<State>OR</State>
+			<Zip>97604</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 3 -->
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Address NearestAirport="Yellowstone Airport">
+			<Number>114</Number>
+			<Street>Albright Ave</Street>
+			<City>Yellowstone National Park</City>
+			<State>WY</State>
+			<Zip>82190-0268</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 4 -->
+	<NationalPark>
+		<Name>Glacier Bay</Name>
+		<Phone>907-697-2230</Phone>
+		<Address NearestAirport="Gustavus Airport">
+			<Number>1</Number>
+			<Street>Park Rd</Street>
+			<City>Gustavus</City>
+			<State>AK</State>
+			<Zip>99826</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 5 -->
+	<NationalPark Rating="4.7">
+		<Name>Death Valley</Name>
+		<Phone>760-786-3200</Phone>
+		<Address>
+			<Number>N/A</Number>
+			<Street>N/A</Street>
+			<City>Death Valley</City>
+			<State>CA</State>
+			<Zip>92328</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 6 -->
+	<NationalPark>
+		<Name>Capitol Reef</Name>
+		<Phone>435-425-3791</Phone>
+		<Address NearestAirport="Grand Junction Regional Airport">
+			<Number>52</Number>
+			<Street>West Headquarters Dr.</Street>
+			<City>Torrey</City>
+			<State>UT</State>
+			<Zip>84775</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 7 -->
+	<NationalPark>
+		<Name>White Sands</Name>
+		<Phone>575-439-4110</Phone>
+		<Address NearestAirport="El Paso International Airport">
+			<Number>19955</Number>
+			<Street>Highway 70 West</Street>
+			<City>Alamogordo</City>
+			<State>NM</State>
+			<Zip>88310</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 8 -->
+	<NationalPark>
+		<Name>Redwood</Name>
+		<Phone>707-464-6101</Phone>
+		<Address NearestAirport="Del Norte County Airport">
+			<Number>1111</Number>
+			<Street>Second Street</Street>
+			<City>Crescent City</City>
+			<State>CA</State>
+			<Zip>95531</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 9 -->
+	<NationalPark>
+		<Name>Hawai'i Volcanoes</Name>
+		<Phone>808-985-6011</Phone>
+		<Address NearestAirport="Hilo International Airport">
+			<Number>1</Number>
+			<Street>Crater Rim Drive</Street>
+			<City>Hawai'i National Park</City>
+			<State>HI</State>
+			<Zip>96718</Zip>
+	</NationalPark>
+
+	<!-- 10 -->
+	<NationalPark>
+		<Name>Badlands</Name>
+		<Phone>605-433-5361</Phone>
+		<Address NearestAirport="Rapid City Regional Airport">
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
